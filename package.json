@@ -1,0 +1,25 @@
+{
+  "name": "pokusdev",
+  "version": "1.0.0",
+  "description": "silly nilly",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/pokusdev.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "Karl Pokus <karl.pokus@gmail.com> (https://github.com/karlpokus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/pokusdev/issues"
+  },
+  "homepage": "https://github.com/karlpokus/pokusdev#readme"
+}
